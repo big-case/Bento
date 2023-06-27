@@ -71,9 +71,9 @@ const CONFIG = {
 		},
 		{
 			id: '4',
-			name: 'Calendar',
-			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			name: 'MonkeyType',
+			icon: 'keyboard',
+			link: 'https://monkeytype.com',
 		},
 		{
 			id: '5',
