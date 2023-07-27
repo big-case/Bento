@@ -83,9 +83,9 @@ const CONFIG = {
 		},
 		{
 			id: '6',
-			name: 'Odysee',
+			name: 'Invidious',
 			icon: 'youtube',
-			link: 'https://odysee.com/',
+			link: 'https://yewtu.be/',
 		},
 	],
 
@@ -110,9 +110,9 @@ const CONFIG = {
 		},
 		{
 			id: '4',
-			name: 'Amazon',
+			name: 'Daraz',
 			icon: 'shopping-bag',
-			link: 'https://amazon.com/',
+			link: 'https://daraz.com.np/',
 		},
 		{
 			id: '5',
@@ -169,8 +169,8 @@ const CONFIG = {
 					link: 'https://www.messenger.com',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'WrestleTalk',
+					link: 'https://www.wrestletalk.com',
 				},
 				{
 					name: 'Slack',
