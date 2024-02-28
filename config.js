@@ -173,8 +173,8 @@ const CONFIG = {
 					link: 'https://www.wrestletalk.com',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Twitch',
+					link: 'https://www.twitch.tv',
 				},
 			],
 		},
